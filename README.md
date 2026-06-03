@@ -1,4 +1,4 @@
-# RANK-OF-A-MATRIX
+<img width="1672" height="941" alt="ChatGPT Image Jun 3, 2026, 07_32_15 PM" src="https://github.com/user-attachments/assets/d3b11c16-a6dc-4d27-9656-aaf40ccf37ea" /># RANK-OF-A-MATRIX
 ## Aim:
 To write a python program to find the rank of a matrix
 ## Equipment’s required:
@@ -15,10 +15,11 @@ To write a python program to find the rank of a matrix
 
 ###Step 4: Display the rank of the matrix as output.
 ## Program:
-##devoloped by :Dhanush Rajan.T
-##ref.no.212225230052
+##devoloped by :kamaleshkumar k
+##ref.no.212225040164
 
-## Output:<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/eced09b5-8c74-477c-9e26-2cabf7d7adf7" />
+## Output:<img width="1672" height="941" alt="ChatGPT Image Jun 3, 2026, 07_32_15 PM" src="https://github.com/user-attachments/assets/a4e5566f-85e8-42d6-879f-01914824f352" />
+
 
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
