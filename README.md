@@ -1,4 +1,4 @@
-<img width="1672" height="941" alt="ChatGPT Image Jun 3, 2026, 07_32_15 PM" src="https://github.com/user-attachments/assets/d3b11c16-a6dc-4d27-9656-aaf40ccf37ea" /># RANK-OF-A-MATRIX
+
 ## Aim:
 To write a python program to find the rank of a matrix
 ## Equipment’s required:
